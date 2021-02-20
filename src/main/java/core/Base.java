@@ -129,10 +129,7 @@ public class Base {
 		 * This method will Close and quite all windows after each execution.
 		 */
 	}
-	// this is check writting line from github to Eclipse lets see how it work
-	/**
-	 * This method will Close and quite all windows after each execution.
-	 */
+	// this this show to change the line
 	public static void tearDown() {
 		driver.close();
 		driver.quit();
