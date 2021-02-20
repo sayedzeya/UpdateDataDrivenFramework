@@ -126,7 +126,7 @@ public class Base {
 		 * This method will Close and quite all windows after each execution.
 		 */
 	}
-	// this is check writting line from git hum to Eclipse lets see how it work
+	// this is check writting line from github to Eclipse lets see how it work
 	/**
 	 * This method will Close and quite all windows after each execution.
 	 */
