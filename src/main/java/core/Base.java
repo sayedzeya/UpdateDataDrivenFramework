@@ -122,6 +122,9 @@ public class Base {
 		
 		
 		driver.get(getURL());
+		/**
+		 * This method will Close and quite all windows after each execution.
+		 */
 	}
 	
 	/**
