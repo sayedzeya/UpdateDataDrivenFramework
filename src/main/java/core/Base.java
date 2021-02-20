@@ -119,7 +119,10 @@ public class Base {
 		driver.manage().timeouts().pageLoadTimeout(Base.getPageLoadTimeOut(), TimeUnit.SECONDS);
 		driver.manage().timeouts().implicitlyWait(Base.getImpWait(), TimeUnit.SECONDS);
 		
-		
+		// this is check writting line from github to Eclipse lets see how it work
+		/**
+		 * This method will Close and quite all windows after each execution.
+		 */
 		
 		driver.get(getURL());
 		/**
